@@ -8,3 +8,8 @@
 
 ## Information systems design
 1. [Диаграмма последовательности UML [planerka.info]](https://planerka.info/item/diagrammy-posledovatelnosti/)
+
+## Java
+### Architectures and patterns
+1. [Software design patterns, principles, and snippets](https://java-design-patterns.com/)
+2. [Design patterns](https://refactoring.guru/)
