@@ -16,3 +16,4 @@
 
 ## Useful resources
 1. [Заметки программиста](https://github.com/Max-Starling/Notes)
+2. [Programming Principles](https://github.com/webpro/programming-principles#keep-things-dry)
