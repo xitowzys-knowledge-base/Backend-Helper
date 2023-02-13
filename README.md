@@ -13,3 +13,6 @@
 ### Architectures and patterns
 1. [Software design patterns, principles, and snippets](https://java-design-patterns.com/)
 2. [Design patterns](https://refactoring.guru/)
+
+## Useful resources
+1. [Заметки программиста](https://github.com/Max-Starling/Notes)
