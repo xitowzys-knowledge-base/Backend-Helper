@@ -13,6 +13,7 @@
 ### Architectures and patterns
 1. [Software design patterns, principles, and snippets](https://java-design-patterns.com/)
 2. [Design patterns](https://refactoring.guru/)
+3. [Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony](https://habr.com/ru/articles/718916/)
 
 ## Useful resources
 1. [Заметки программиста](https://github.com/Max-Starling/Notes)
