@@ -16,6 +16,9 @@
 3. [Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony](https://habr.com/ru/articles/718916/)
 4. [Забудьте о DAO, используйте Repository](https://habr.com/ru/articles/263033/)
 
+### Useful articles
+1. [Java 8: гид по классу Optional](https://habr.com/ru/articles/658457/#)
+
 ## Useful resources
 1. [Заметки программиста](https://github.com/Max-Starling/Notes)
 2. [Programming Principles](https://github.com/webpro/programming-principles#keep-things-dry)
