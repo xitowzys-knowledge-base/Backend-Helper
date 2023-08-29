@@ -19,6 +19,9 @@
 ### Useful articles
 1. [Java 8: гид по классу Optional](https://habr.com/ru/articles/658457/#)
 
+### Testing
+1. [Что такое TDD и модульное тестирование](https://javarush.com/groups/posts/6-chto-takoe-tdd-i-moduljhnoe-testirovanie-)
+
 ## Useful resources
 1. [Заметки программиста](https://github.com/Max-Starling/Notes)
 2. [Programming Principles](https://github.com/webpro/programming-principles#keep-things-dry)
