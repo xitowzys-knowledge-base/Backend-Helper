@@ -17,6 +17,10 @@
 4. [Забудьте о DAO, используйте Repository](https://habr.com/ru/articles/263033/)
 5. [Implementing Event-Driven Interfaces in Java](https://medium.com/@eidan.khan659/implementing-event-driven-interfaces-in-java-c620797f63dc)
 
+## Golang
+### Architectures and patterns
+1. [A pattern language for microservices](https://microservices.io/patterns/index.html)
+
 ### Useful articles
 1. [Java 8: гид по классу Optional](https://habr.com/ru/articles/658457/#)
 
