@@ -17,15 +17,15 @@
 4. [Забудьте о DAO, используйте Repository](https://habr.com/ru/articles/263033/)
 5. [Implementing Event-Driven Interfaces in Java](https://medium.com/@eidan.khan659/implementing-event-driven-interfaces-in-java-c620797f63dc)
 
-## Golang
-### Architectures and patterns
-1. [A pattern language for microservices](https://microservices.io/patterns/index.html)
-
 ### Useful articles
 1. [Java 8: гид по классу Optional](https://habr.com/ru/articles/658457/#)
 
 ### Testing
 1. [Что такое TDD и модульное тестирование](https://javarush.com/groups/posts/6-chto-takoe-tdd-i-moduljhnoe-testirovanie-)
+
+## Golang
+### Architectures and patterns
+1. [A pattern language for microservices](https://microservices.io/patterns/index.html)
 
 ## Useful resources
 1. [Заметки программиста](https://github.com/Max-Starling/Notes)
