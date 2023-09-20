@@ -24,6 +24,9 @@
 1. [Что такое TDD и модульное тестирование](https://javarush.com/groups/posts/6-chto-takoe-tdd-i-moduljhnoe-testirovanie-)
 
 ## Golang
+
+1. [Разбираемся с пакетом Context в Golang](https://habr.com/ru/companies/nixys/articles/461723/)
+
 ### Architectures and patterns
 1. [A pattern language for microservices](https://microservices.io/patterns/index.html)
 
