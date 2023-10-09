@@ -33,3 +33,6 @@
 ## Useful resources
 1. [Заметки программиста](https://github.com/Max-Starling/Notes)
 2. [Programming Principles](https://github.com/webpro/programming-principles#keep-things-dry)
+
+## Хорошие статьи
+1. [Backend side architecture evolution (N-layered, DDD, Hexagon, Onion, Clean Architecture)](https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4)
