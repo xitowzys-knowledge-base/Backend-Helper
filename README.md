@@ -36,3 +36,8 @@
 
 ## Хорошие статьи
 1. [Backend side architecture evolution (N-layered, DDD, Hexagon, Onion, Clean Architecture)](https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4)
+
+# Frontend
+
+## Architectures and patterns
+1. [Feature-Sliced Design (Архитектурная методология для фронтенд проектов)](https://feature-sliced.design)
